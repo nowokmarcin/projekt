@@ -1,0 +1,19 @@
+Celem tego projektu jest stworzenie bazy wiedzy, który bêdzie pomaga³ studentom w ramach 
+konkretnych przedmiotów. Bêd¹ tam udostêpnianie bazy definicji z wyk³adów, laboratoriów, 
+przyk³ady, najczêœciej pope³niane b³êdy, opis przyk³adów oraz ich rozwi¹zania.
+
+Cele projektu: Celem tego projektu jest stworzenie bazy wiedzy, który bêdzie pomaga³ 
+studentom w ramach konkretnych przedmiotów. Bêd¹ tam udostêpnianie bazy definicji z wyk³adów, 
+laboratoriów, przyk³ady, najczêœciej pope³niane b³êdy, opis przyk³adów oraz ich rozwi¹zania. 
+Taka strona znacznie u³atwi³aby wspó³pracê miêdzy studentami a wyk³adowcami, ograniczaj¹c przy 
+tym jakiekolwiek nieœcis³oœci, które mog³yby siê wywi¹zaæ miêdzy tymi grupami w przysz³oœci. 
+By³aby tak¿e mo¿liwoœci¹ dla studentów do uzupe³nienia brakuj¹cej wiedzy oraz zdobycie nowej, 
+niezbêdnej do dalszego toku nauczania.
+
+Klient i nabywca: Uniwersytet Œl¹ski U¿ytkownicy: wyk³adowcy; pracownicy uczelni; wszyscy 
+zainteresowani zdobyciem wiedzy, a w szczególnoœci studenci; informatycy obs³uguj¹cy stronê; 
+Wymagania funkcjonalne: System bêdzie obs³ugiwa³ u¿ytkowników uczelni (zarówno wyk³adowców, jak i 
+studentów) w celu poprawy komunikacji oraz wspó³pracy miêdzy nimi. Wyk³adowcy, oraz osoby 
+prowadz¹ce laboratoria, konserwatoria itp. bêd¹ mia³y mo¿liwoœæ udostêpniania swoich materia³ów 
+ze swojego konta, które bêd¹ weryfikowane przez informatyków. Chêtni studenci bêd¹ mieli mo¿liwoœæ 
+odnalezienia materia³ów danego wyk³adowcy oraz uzupe³nienie brakuj¹cej wiedzy.
